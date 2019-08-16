@@ -1,0 +1,64 @@
+{
+
+  
+  "token": "NTk4OTY2OTA2MzE3MTc2OTAx.XVa0ZQ.aF7JQE90ukP1vGOVcnx-8TRVFzg", 
+  "prefix": "!", 
+   
+  
+  "host": "127.0.0.1", 
+  "user": "root", 
+  "password": "", 
+  "database": "easy", 
+
+ 
+  "wlcommand": "wl", 
+  "guildidwl": "597534987192893471", 
+  "kanalwl": "597535829023260682", 
+
+  
+  "kanalst": "", 
+  "wiadomoscst": "", 
+  "ipst": "", 
+  "maksst": "", 
+  "kolorst": "",
+  "nazwafoost": "",
+  "nazwaglst": "",
+
+ 
+  "kategoriatic": "611919907508060180", 
+  "roleidtic": "597534987192893471", 
+  "komendatic": "close", 
+  "logitic": "611920205328941057", 
+
+
+
+ 
+  "roladev": "👑 Właściciel 👑", 
+  "iddev": "598184216831721518", 
+  "komendadev": "Dev", 
+
+  
+  "rolehex": "👑 Właściciel 👑", 
+  "komendahex": "hex", 
+
+
+  "rolaogl": "👑 Właściciel 👑",
+  "idogl": "598184216831721518", 
+  "komendaogl": "ogl", 
+
+
+  "rolapoll": "👑 Właściciel 👑", 
+  "komendapoll": "pll", 
+
+
+  "kanalprop": "601116803543990322", 
+  "komendaprop": "prop", 
+
+
+   "rolasay": "👑 Właściciel 👑", 
+   "komendasay": "say", 
+
+  
+   "rolars": "👑 Właściciel 👑", 
+   "komendars": "rs" 
+}
